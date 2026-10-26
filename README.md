@@ -1,14 +1,7 @@
 # CST2335 - Lab 5 (SQLite Database & Persistent ToDo List)
 
-| Field | Details |
-| :--- | :--- |
-| **Student Name** | |
-| **Student ID** | |
-| **Course** | CST2335 - Mobile Graphical Interface Programming |
-| **Lab** | Lab 5 - SQLite Database, Cursor & Persistent ListView |
-| **Semester** | Fall 2026 |
-
----
+**Course:** CST2335 - Mobile Graphical Interface Programming  
+**Branch:** lab_5  
 
 ## Project Overview
 This project builds upon Lab 4 to provide permanent data persistence using an Android SQLite database. 
